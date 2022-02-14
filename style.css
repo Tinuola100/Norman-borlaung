@@ -1,0 +1,49 @@
+
+body{
+    background-color: rgb(138, 8, 8);
+    color: white;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5;
+    margin: 0;
+}
+}
+.imgdiv{
+display:block;
+margin-block-start: 1cm;
+margin-inline-end: 1cm;
+margin-inline-start: 100px;
+margin-inline-end: 100px;
+background-position: center;
+width: 400px;
+height: 800px;
+margin-top: 10px;
+margin-left: 20cm;
+}
+
+
+
+.boxmodel{
+    background-image: url("image2");
+    background-size: cover,100%;
+    background-repeat: no-repeat;
+    border: 20px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+   font-size: 16px;
+   line-height: 24px;
+   margin: 10px;
+   margin-block-start: 1cm;
+margin-inline-end: 1cm;
+
+
+   background-blend-mode:overlay,normal;
+   background-color: rgba(124,21,12);
+height: 70%,90%;
+display: inline-block;
+}
+ 
+
